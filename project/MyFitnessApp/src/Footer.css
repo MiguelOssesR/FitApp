@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #212124;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+.footerText {
+    margin-top: 15px;
+    font-family: "Lexend", sans-serif;
+    font-size: 13px;
+    font-weight: 200;
+    font-style: normal;
+}
